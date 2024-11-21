@@ -44,6 +44,7 @@ setup(
         'chroma',
         'chromadb',
         'tiktoken',
-        'scholarly'
+        'scholarly',
+        'PyPDF2'
     ],
 )
